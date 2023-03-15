@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Name</string>
+    <string name="et_text_hint">Type Something here🤗</string>
+    <string name="bt_text">Send😁</string>
+</resources>

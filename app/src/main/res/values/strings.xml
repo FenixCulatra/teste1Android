@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">nome</string>
+    <string name="et_text_hint">Digite algo aqui🤗</string>
+    <string name="bt_text">Enviar😁</string>
+</resources>
